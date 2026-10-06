@@ -102,6 +102,7 @@ git push -u origin main
 ## Troubleshooting
 
 | Symptom | Fix |
+
 |---|---|
 | Blank page, "Missing VITE_SUPABASE_URL" | Env vars missing; redeploy after adding them |
 | Upload says "Service temporarily unavailable" | Migration 004 not run (rate-limit function missing) |
